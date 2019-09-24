@@ -1,2 +1,2 @@
 # Portfolio V2
- A personal website
+My personal portfolio to showcase my skills to the best of my knowledge
